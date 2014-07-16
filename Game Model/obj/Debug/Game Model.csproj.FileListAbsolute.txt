@@ -1,0 +1,7 @@
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\bin\Debug\Game Model.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\bin\Debug\Game Model.pdb
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\obj\Debug\Game Model.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\obj\Debug\Game Model.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\obj\Debug\Game Model.pdb
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\bin\Debug\ClassLibrary2.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Model\bin\Debug\ClassLibrary2.pdb

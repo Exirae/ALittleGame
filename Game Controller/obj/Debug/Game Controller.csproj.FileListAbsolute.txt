@@ -1,0 +1,7 @@
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\bin\Debug\Game Controller.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\bin\Debug\Game Controller.pdb
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\bin\Debug\Game Model.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\bin\Debug\Game Model.pdb
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\obj\Debug\Game Controller.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\obj\Debug\Game Controller.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\Game Controller\obj\Debug\Game Controller.pdb

@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\mike\documents\visual studio 2013\Projects\ConsoleApplication3\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
